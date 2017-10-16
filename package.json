@@ -1,8 +1,12 @@
 {
   "name": "flexmini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mini CSS layout framework based on flex",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/twn39/flexmini",
+    "type": "git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
