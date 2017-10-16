@@ -1,0 +1,11 @@
+{
+  "name": "flexgrid",
+  "version": "1.0.0",
+  "description": "A mini CSS layout framework based on flex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weinan.tang",
+  "license": "MIT"
+}
