@@ -1,6 +1,6 @@
 {
   "name": "flexmini",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A mini CSS layout framework based on flex",
   "main": "flexmini.css",
   "repository": {
