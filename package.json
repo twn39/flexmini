@@ -1,5 +1,5 @@
 {
-  "name": "flexgrid",
+  "name": "flexmini",
   "version": "1.0.0",
   "description": "A mini CSS layout framework based on flex",
   "main": "index.js",
