@@ -2,7 +2,7 @@
   "name": "flexmini",
   "version": "1.0.2",
   "description": "A mini CSS layout framework based on flex",
-  "main": "index.js",
+  "main": "flexmini.css",
   "repository": {
     "url": "https://github.com/twn39/flexmini",
     "type": "git"
